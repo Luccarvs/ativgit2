@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(162, 157, 207);
+    font-family: 'Inter';
+    font-size: 16px;
+    color: blanchedalmond;
+}
+.moldura{
+    border: radius 50%;
+    
+}
